@@ -83,7 +83,9 @@ Albion: 阿尔比恩
 Camelot: 卡梅洛特
 Ealdor: 埃尔多
 Essetir: 埃塞提尔
+ogham: 欧甘
 Mercia: 麦西亚
+Sidhe: 希德
 Nemeth: 内梅斯
 Gawant: 高文特
 Cenred: 森瑞德
