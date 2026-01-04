@@ -1,0 +1,207 @@
+版本号：1.0.0
+维护者：Winston
+更新时间：2026-01-04
+
+// ============================================================
+// 核心角色与人物（区分大小写）
+// ============================================================
+
+词条
+// --- 主要角色 ---
+Will Graham = 威尔·格雷厄姆
+Hannibal Lecter = 汉尼拔·莱克特
+Jack Crawford = 杰克·克劳福德
+Alana Bloom = 阿拉娜·布鲁姆
+Frederick Chilton = 弗雷德里克·奇尔顿
+
+// --- 支持角色 ---
+Matthew Brown = 马修·布朗
+Beverly Katz = 贝弗莉·卡兹
+Jimmy Price = 吉米·普莱斯
+Brian Zeller = 布莱恩·泽勒
+Freddie Lounds = 弗雷迪·劳兹
+Abigail Hobbs = 阿比盖尔·霍布斯
+Garret Jacob Hobbs = 盖勒特·雅各布·霍布斯
+Bedelia Du Maurier = 贝蒂莉亚·杜·莫里哀
+
+// --- 其他角色（按字母顺序） ---
+Abel Gideon = 亚伯·吉迪恩
+Aaron Cavell = 亚伦·卡维尔
+Allegra Pazzi = 阿莱格拉·帕齐
+Antony Dimmond = 安东尼·迪蒙德
+Arnold Lang = 阿诺德·朗
+Ava Fairfield = 艾娃·费尔菲尔德
+Bella Crawford = 贝拉·克劳福德
+Beth LeBeau = 贝丝·勒博
+Carlo Deogracias = 卡洛·德奥格拉西亚斯
+Carson Nahn = 卡森·纳恩
+Cassie Boyle = 卡西·博伊尔
+Christopher O'Halloran = 克里斯托弗·奥哈洛兰
+Christopher Word = 克里斯托弗·沃德
+Clark Ingram = 克拉克·英格拉姆
+Conner Frist = 康纳·弗里斯特
+Cordell Doemling = 科德尔·多姆林
+David R. Illes = 大卫·R·艾尔斯
+Devon Silvestri = 德文·西尔维斯特里
+Donald Sutcliffe = 唐纳德·萨克利夫
+Dorene Ibale = 多琳·伊贝尔
+Eldon Stammets = 埃尔登·斯塔梅茨
+Elise Nichols = 艾丽丝·尼科尔斯
+Elizabeth Shell = 伊丽莎白·谢尔
+Elliot Buddish = 埃利奥特·巴迪什
+Franklyn Froideveaux = 弗兰克林·弗罗伊德沃
+Hailey Sampter Bennett = 海莉·桑普特·贝内特
+Harold Innedeton = 哈罗德·英尼德顿
+James Gray = 詹姆斯·格雷
+Jesse Turner = 杰西·特纳
+Jocelyn Madchen = 乔斯琳·马德琴
+Kade Prurnell = 凯德·普鲁内尔
+Katherine Pimms = 凯瑟琳·皮姆斯
+Komeda = 科梅达
+Lawrence Wells = 劳伦斯·韦尔斯
+Lenora = 莱诺拉
+Leonard Brauner = 伦纳德·布劳纳
+Lester Ionnoti = 莱斯特·伊奥诺蒂
+Louise Hobbs = 路易丝·霍布斯
+Luciano = 卢西亚诺
+Lydia Fell = 莉迪亚·费尔
+Margot Verger = 玛格·维杰
+Marcy O'Halloran = 马西·奥哈洛兰
+Marissa Schurr = 玛丽莎·舒尔
+Mary Louise = 玛丽·路易斯
+Mason Verger = 梅森·维杰
+Matteo Deogracias = 马泰奥·德奥格拉西亚斯
+Michelle Vocalson = 米歇尔·沃卡尔森
+Miriam Lass = 米里亚姆·拉斯
+Mischa = 米莎
+Molly Graham = 莫莉·格雷厄姆
+Morgan Verger = 摩根·维杰
+Neal Frank = 尼尔·弗兰克
+Nicholas Boyle = 尼古拉斯·博伊尔
+Randall Tier = 兰德尔·蒂尔
+Reba McClane = 里芭·麦克莱恩
+Rinaldo Pazzi = 里纳尔多·帕齐
+Roman Fell = 罗曼·费尔
+Sheldon Isley = 谢尔登·艾斯利
+Theresa Marlow = 特蕾莎·马洛
+Thomas Marlow = 托马斯·马洛
+Tobias Budge = 托拜厄斯·巴奇
+Tommaso = 托马索
+
+// ============================================================
+// 动物与宠物（区分大小写，但风险较高）
+// ============================================================
+
+词条
+// 注意：以下词条可能误译常见单词，建议仅在必要时使用
+// 或者将它们移到文件末尾，降低优先级
+Winston：温斯顿  // 宠物犬名，也是常见人名
+Zoe：佐伊       // 常见人名
+Buster：巴斯特   // 常见犬名/昵称
+Heidee：海蒂     // 宠物名
+Harley：哈莉     // 常见人名/品牌名
+
+// ============================================================
+// 象征、概念与绰号（不区分大小写）
+// ============================================================
+
+通用词条
+The Stag：雄鹿
+The Ravenstag：鸦羽鹿
+Murder Husbands：谋杀夫夫
+The Wendigo：温迪戈
+The Great Red Dragon：伟大的红龙
+Chesapeake Ripper：切萨皮克开膛手
+Copycat：模仿犯
+The Human Totem：人体图腾
+The Muralist：壁画杀手
+The Ripper's Apprentice：开膛手学徒
+Red Dragon：红龙
+
+// ============================================================
+// 机构、物品与作品（不区分大小写）
+// ============================================================
+
+通用词条
+Bureau Of Behavioral Sciences：行为科学部
+The Memory Palace：记忆宫殿
+Hannibal's Recipes：汉尼拔的食谱
+
+// ============================================================
+// 地名与地点（不区分大小写，但有误译风险）
+// ============================================================
+
+通用词条
+// 以下地名可能误译普通单词，请谨慎使用
+Baltimore：巴尔的摩
+Baltimore State Hospital For The Criminally Insane：巴尔的摩州立精神病院
+FBI Academy：联邦调查局学院
+Quantico：匡提科
+Virginia：弗吉尼亚州
+Wolf Trap：狼陷
+Minnesota：明尼苏达
+Wisconsin：威斯康星
+Florence：佛罗伦萨
+Italy：意大利
+Paris：巴黎
+Shepherd Pratt：坎特伯雷诊所
+Biblioteca Capponi：卡波尼图书馆
+Palazzo：帕拉佐宅邸
+Uffizi Gallery：乌菲兹美术馆
+New York：纽约
+Baltimore Harbor：巴尔的摩港
+Chesapeake Bay：切萨皮克湾
+
+// ============================================================
+// 禁翻词条（保持原文）
+// ============================================================
+
+禁翻词条
+// 机构缩写 - 统一保持原文
+FBI
+BAU
+BSHCI
+
+// 媒体名称 - 保持原文
+Tittle Crime
+Tittle-Crime
+TittleCrime
+// 注：正则表达式区已处理各种变体，这里作为额外的基础保护
+
+// ============================================================
+// 正则表达式区
+// ============================================================
+
+正则表达式
+// 匹配绰号的不同大小写形式（收紧匹配范围）
+\b[Tt]he [Tt]ooth [Ff]airy\b: 牙仙
+\b[Tt]he [Mm]innesota [Ss]hrike\b: 明尼苏达伯劳鸟
+\b[Tt]he [Aa]ngel [Mm]aker\b: 天使制造者
+\b[Tt]he [Mm]ushroom [Kk]iller\b: 蘑菇杀手
+
+// 匹配"Wolf Trap"的不同形式
+\b[Ww]olf[- ]?[Tt]rap\b: 狼陷
+
+// ============================================================
+// 新增：保护"Tittle Crime"及其所有变体不被翻译
+// ============================================================
+
+正则表达式
+// 匹配"Tittle Crime"的所有常见变体，保持原文
+// 1. 标准形式（带空格）：Tittle Crime, tittle crime, Tittle crime 等
+\b[Tt]ittle [Cc]rime\b: Tittle Crime
+
+// 2. 连字符形式：Tittle-Crime, tittle-crime 等
+\b[Tt]ittle-[Cc]rime\b: Tittle-Crime
+
+// 3. 合并形式（无空格）：TittleCrime, tittlecrime, Tittlecrime 等
+\b[Tt]ittle[Cc]rime\b: TittleCrime
+
+// 4. 带定冠词的形式：The Tittle Crime, the tittle crime 等
+\b[Tt]he [Tt]ittle [Cc]rime\b: The Tittle Crime
+
+// 5. 带定冠词的连字符形式：The Tittle-Crime 等
+\b[Tt]he [Tt]ittle-[Cc]rime\b: The Tittle-Crime
+
+// 6. 带定冠词的合并形式：TheTittleCrime, theTittleCrime 等
+\b[Tt]he[Tt]ittle[Cc]rime\b: TheTittleCrime
