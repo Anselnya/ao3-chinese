@@ -1,6 +1,6 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：Winston
-更新时间：2026-01-04
+更新时间：2026-01-05
 
 // ============================================================
 // 核心角色与人物（区分大小写）
@@ -166,42 +166,3 @@ BSHCI
 Tittle Crime
 Tittle-Crime
 TittleCrime
-// 注：正则表达式区已处理各种变体，这里作为额外的基础保护
-
-// ============================================================
-// 正则表达式区
-// ============================================================
-
-正则表达式
-// 匹配绰号的不同大小写形式（收紧匹配范围）
-\b[Tt]he [Tt]ooth [Ff]airy\b: 牙仙
-\b[Tt]he [Mm]innesota [Ss]hrike\b: 明尼苏达伯劳鸟
-\b[Tt]he [Aa]ngel [Mm]aker\b: 天使制造者
-\b[Tt]he [Mm]ushroom [Kk]iller\b: 蘑菇杀手
-
-// 匹配"Wolf Trap"的不同形式
-\b[Ww]olf[- ]?[Tt]rap\b: 狼陷
-
-// ============================================================
-// 新增：保护"Tittle Crime"及其所有变体不被翻译
-// ============================================================
-
-正则表达式
-// 匹配"Tittle Crime"的所有常见变体，保持原文
-// 1. 标准形式（带空格）：Tittle Crime, tittle crime, Tittle crime 等
-\b[Tt]ittle [Cc]rime\b: Tittle Crime
-
-// 2. 连字符形式：Tittle-Crime, tittle-crime 等
-\b[Tt]ittle-[Cc]rime\b: Tittle-Crime
-
-// 3. 合并形式（无空格）：TittleCrime, tittlecrime, Tittlecrime 等
-\b[Tt]ittle[Cc]rime\b: TittleCrime
-
-// 4. 带定冠词的形式：The Tittle Crime, the tittle crime 等
-\b[Tt]he [Tt]ittle [Cc]rime\b: The Tittle Crime
-
-// 5. 带定冠词的连字符形式：The Tittle-Crime 等
-\b[Tt]he [Tt]ittle-[Cc]rime\b: The Tittle-Crime
-
-// 6. 带定冠词的合并形式：TheTittleCrime, theTittleCrime 等
-\b[Tt]he[Tt]ittle[Cc]rime\b: TheTittleCrime
