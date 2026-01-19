@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：■■■
 更新时间：2026-01-19
 
@@ -6,6 +6,7 @@
 // 主要出场角色，按指定顺序排列
 Kim Dokja: 金独子
 Yoo Joonghyuk: 刘众赫
+Yoo Jonghyuk: 刘众赫
 Han Sooyoung: 韩秀英
 Yoo Sangah: 刘尚雅
 Jung Heewon: 郑熙媛
