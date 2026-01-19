@@ -1,0 +1,229 @@
+版本号：1.0.0
+维护者：■■■
+更新时间：2026-01-19
+
+词条
+// 主要出场角色，按指定顺序排列
+Kim Dokja: 金独子
+Yoo Joonghyuk: 刘众赫
+Han Sooyoung: 韩秀英
+Yoo Sangah: 刘尚雅
+Jung Heewon: 郑熙媛
+Lee Hyunsung: 李贤诚
+Lee Jihye: 李智慧
+Lee Gilyoung: 李吉永
+Shin Yoosung: 申流承
+Lee Sookyung: 李秀景
+Lee Seolhwa: 李雪花
+Jang Hayoung: 张夏英
+Gong Pildu: 孔弼斗
+Han Myungoh: 韩明武
+Anna Croft: 安娜·卡芙特
+Namgung Minyoung: 南宫珉英
+Kyrgios Rodgraim: 基里奥斯·罗德格莱姆
+Aileen Makerfield: 阿依琳·梅克菲尔德
+Kim Namwoon: 金南云
+Demon King of Salvation: 救赎的魔王
+Demon-like Judge of Fire: 恶魔般的火之审判者
+Prisoner of the Golden Headband: 紧箍儿的囚徒
+Abyssal Black Flame Dragon: 深渊的黑焰龙
+Secretive Plotter: 隐秘的谋略家
+Queen of the Darkest Spring: 至暗之春的女王
+Father of the Rich Night: 富裕夤夜之父
+God of Wine and Ecstasy: 酒与恍惚境之神
+Maritime War God: 海上战神
+Mass Production Maker: 量产型制作者
+Oldest Dream: 最古老的梦
+Dokkaebi King: 鬼怪之王
+
+// “Persephone”的同位词统一翻译
+Poserfeni = 珀耳塞福涅
+Persephone = 珀耳塞福涅
+
+// 其他鬼怪相关
+Bihyung: 鼻荆
+Biyoo: 譬喻
+Youngki: 灵奇
+Paul: 保罗
+Biryu: 鼻流
+Baram: 清风
+
+// 其他神话/传说存在
+Devil of Lust and Wrath: 盛怒与欲望的魔神
+Lord of the Abyss: 深渊之主
+King of Corrupted Angels: 堕天使之王
+Ruler of the East Hell: 东地狱统治者
+Living Flame: 活焰
+King of the Silver Heart: 银心之王
+Master of the Sunken Island: 沉没之岛之主
+Monarch of the Great Abyss: 伟大深渊君主
+Eater of Dreams: 食梦者
+Nameless Mist: 无名迷雾
+
+// 其他角色（按英文首字母顺序A-Z排列）
+Abaddon: 阿巴顿
+Abe no Seimei: 安倍晴明
+Achilles: 阿喀琉斯
+Amdusias: 阿姆杜西亚斯
+An Junggeun: 安重根
+Andras: 安德拉斯
+Andrealphus: 安德雷阿尔弗斯
+Andromalius: 安德罗马利乌斯
+Antinus: 安提诺乌斯
+Aphrodite: 阿佛洛狄忒
+Apocalypse Dragon: 启示录之龙
+Ares: 阿瑞斯
+Ariadne: 阿里阿德涅
+Asmodeus: 阿斯莫德
+Asuka Ren: 飞鸟莲
+Athena: 雅典娜
+Bang Cheolsoo: 方哲洙
+Bang Takho: 方泰浩
+Baron Chechefen: 切切芬男爵
+Baron Melen: 梅伦男爵
+Bimawen: 毗摩文
+Briareus: 布里阿瑞俄斯
+Camael: 卡玛艾尔
+Cha Sangkyung: 车尚京
+Cheok Jungyeong: 赫正永
+Cheon Inho: 千仁浩
+Chimera Dragon: 奇美拉龙
+Cho Jinchul: 赵镇哲
+Cho Youngran: 赵英兰
+Chu Wangin: 朱旺仁
+Cleopatra: 克利奥帕特拉
+Dionysus: 狄俄尼索斯
+Dog Who Threw Himself into the Flames: 投身火焰之犬
+Bercan: 贝尔坎
+Gilobat: 吉洛巴特
+Melledon: 梅勒登
+Syswitz: 西斯维茨
+Silocke: 西洛克
+Euphrosyne: 欧佛洛绪涅
+Fear of Sarnath: 萨纳斯之恐惧
+Fei Hu: 飞虎
+Flauros: 弗劳洛斯
+Fourth Wall: 第四面墙
+Gabriel: 加百列
+Ganul: 加努尔
+Garang: 加朗
+Gildal: 吉尔达尔
+Gillemium: 吉勒米乌姆
+Goro Amano: 天野五郎
+Great Sage， Heaven‘s Equal: 齐天大圣
+Hades: 哈迪斯
+Icarus: 伊卡洛斯
+Imhotep: 伊姆霍特普
+Incubus: 梦魇
+Ishtar: 伊什塔尔
+Jack the Ripper: 开膛手杰克
+Jin Sungjin: 晋成镇
+Jo Eunha: 赵恩河
+Joo Seokgyu: 朱锡圭
+Kim Jihye: 金智慧
+Kim Suho: 金秀浩
+Kim Taehyun: 金泰贤
+Kim Yoojin: 金有真
+Kim Yoonhee: 金允熙
+Koh Dongwook: 高东旭
+Koh Hyunsu: 高贤秀
+Koh Minseok: 高敏锡
+Koh Sanghoon: 高尚勋
+Lee Sangmin: 李尚敏
+Lee Seungwoo: 李承宇
+Lee Sunghoon: 李成勋
+Lee Taesung: 李泰成
+Mara: 玛拉
+Marceline: 玛赛琳
+Maria: 玛丽亚
+Markus: 马库斯
+Melchior: 梅尔基奥
+Merlin: 梅林
+Michael: 米迦勒
+Minerva: 密涅瓦
+Mordred: 莫德雷德
+Nabu: 纳布
+Narcissus: 纳西瑟斯
+Nezha: 哪吒
+Nightingale: 夜莺
+Noah: 诺亚
+Nox: 诺克斯
+Obsidian Dragon: 黑曜石之龙
+Octavia: 奥克塔维亚
+Odysseus: 奥德修斯
+Odin: 奥丁
+Orpheus: 奥菲斯
+Pandora: 潘多拉
+Perseus: 珀尔修斯
+Phoebe: 菲比
+Pholus: 福洛斯
+Pietro: 皮耶特罗
+Pluto: 普鲁托
+Poseidon: 波塞冬
+Prometheus: 普罗米修斯
+Quetzalcoatl: 羽蛇神
+Quirinus: 奎里努斯
+Ragnarok Dragon: 诸神黄昏之龙
+Rama: 罗摩
+Raphael: 拉斐尔
+Raven: 乌鸦
+Remiel: 雷米尔
+Rhea: 瑞亚
+Rikimaru: 力丸
+Samael: 撒母耳
+Samson: 参孙
+Sanada Yukimura: 真田幸村
+Sangwoo: 尚宇
+Saturn: 土星
+Scipio: 西庇阿
+Seong Giyeong: 成基英
+Seraphiel: 撒拉弗
+Shiva: 湿婆
+Sigurd: 西格鲁德
+Socrates: 苏格拉底
+Solomon: 所罗门
+Sphinx: 斯芬克斯
+St. George: 圣乔治
+Sun Wukong: 孙悟空
+Tartarus Dragon: 塔尔塔罗斯之龙
+Tawara Tōda: 俵藤太
+Tezcatlipoca: 特斯卡特利波卡
+Thor: 托尔
+Theseus: 忒修斯
+Thoth: 托特
+Tiamat: 提亚马特
+Titan Dragon: 泰坦巨龙
+Ulysses: 尤利西斯
+Uriel: 乌列尔
+Ushiwakamaru: 牛若丸
+Valkyrie: 女武神
+Vamana: 婆摩那
+Vasilisa: 瓦西里萨
+Venus: 维纳斯
+Vishnu: 毗湿奴
+Wang Jangho: 王章浩
+Wang Sunhee: 王顺熙
+Wang Taesik: 王泰锡
+William: 威廉
+Wu Zetian: 武则天
+Xerxes: 色克斯
+Yoon Hyejin: 尹慧珍
+Yuki Takahashi: 高桥优希
+Zeus: 宙斯
+Zhong Kui: 钟馗
+Zhuge Liang: 诸葛亮
+
+通用词条
+// 书籍、系统等通用概念，不区分大小写
+Star Stream: 星流直播
+Three Ways to Survive in a Ruined World: 在灭亡世界存活的三种方法
+Ways of Survival: 灭活法
+WOS: 灭活法
+
+// 通用名词“星座”，适用于各种大小写组合
+Constellation: 星座
+
+禁翻词条
+// 需保持原文的词汇
+Coins
+tls123
