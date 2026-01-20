@@ -1,6 +1,6 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：■■■
-更新时间：2026-01-19
+更新时间：2026-01-20
 
 词条
 // 主要出场角色，按指定顺序排列
@@ -19,6 +19,21 @@ Lee Seolhwa: 李雪花
 Jang Hayoung: 张夏英
 Gong Pildu: 孔弼斗
 Han Myungoh: 韩明武
+Dokja: 独子
+Joonghyuk: 众赫
+Jonghyuk: 众赫
+Sooyoung: 秀英
+Sangah: 尚雅
+Heewon: 熙媛
+Hyunsung: 贤诚
+Jihye: 智慧
+Gilyoung: 吉永
+Yoosung: 流承
+Sookyung: 秀景
+Seolhwa: 雪花
+Hayoung: 夏英
+Pildu: 弼斗
+Myungoh: 明武
 Anna Croft: 安娜·卡芙特
 Namgung Minyoung: 南宫珉英
 Kyrgios Rodgraim: 基里奥斯·罗德格莱姆
@@ -77,6 +92,7 @@ Ares: 阿瑞斯
 Ariadne: 阿里阿德涅
 Asmodeus: 阿斯莫德
 Asuka Ren: 飞鸟莲
+Ren: 莲
 Athena: 雅典娜
 Bang Cheolsoo: 方哲洙
 Bang Takho: 方泰浩
@@ -220,6 +236,9 @@ Star Stream: 星流直播
 Three Ways to Survive in a Ruined World: 在灭亡世界存活的三种方法
 Ways of Survival: 灭活法
 WOS: 灭活法
+Midday Tryst: 白日幽会
+Sage’s Eye: 贤者之眼
+Hyung: 哥
 
 // 通用名词“星座”，适用于各种大小写组合
 Constellation: 星座
@@ -228,3 +247,4 @@ Constellation: 星座
 // 需保持原文的词汇
 Coins
 tls123
+Mino Soft
