@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：■■■
 更新时间：2026-01-20
 
@@ -19,6 +19,13 @@ Lee Seolhwa: 李雪花
 Jang Hayoung: 张夏英
 Gong Pildu: 孔弼斗
 Han Myungoh: 韩明武
+Han Myongoh: 韩明武
+Yoo: 刘
+Han: 韩
+Jung: 郑
+Lee: 李
+Jang: 张
+Gong: 孔
 Dokja: 独子
 Joonghyuk: 众赫
 Jonghyuk: 众赫
@@ -34,6 +41,7 @@ Seolhwa: 雪花
 Hayoung: 夏英
 Pildu: 弼斗
 Myungoh: 明武
+Myongoh: 明武
 Anna Croft: 安娜·卡芙特
 Namgung Minyoung: 南宫珉英
 Kyrgios Rodgraim: 基里奥斯·罗德格莱姆
@@ -51,8 +59,6 @@ Maritime War God: 海上战神
 Mass Production Maker: 量产型制作者
 Oldest Dream: 最古老的梦
 Dokkaebi King: 鬼怪之王
-
-// “Persephone”的同位词统一翻译
 Poserfeni = 珀耳塞福涅
 Persephone = 珀耳塞福涅
 
@@ -238,9 +244,9 @@ Ways of Survival: 灭活法
 WOS: 灭活法
 Midday Tryst: 白日幽会
 Sage’s Eye: 贤者之眼
+Unbroken Faith: 永不折断的信念
 Hyung: 哥
-
-// 通用名词“星座”，适用于各种大小写组合
+Noona: 姐
 Constellation: 星座
 
 禁翻词条
