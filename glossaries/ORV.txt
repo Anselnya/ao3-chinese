@@ -1,6 +1,6 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：■■■
-更新时间：2026-01-20
+更新时间：2026-01-29
 
 词条
 // 主要出场角色，按指定顺序排列
@@ -14,16 +14,21 @@ Lee Hyunsung: 李贤诚
 Lee Jihye: 李智慧
 Lee Gilyoung: 李吉永
 Shin Yoosung: 申流承
+Shin Yoosoung : 申流承
 Lee Sookyung: 李秀景
 Lee Seolhwa: 李雪花
 Jang Hayoung: 张夏英
 Gong Pildu: 孔弼斗
 Han Myungoh: 韩明武
 Han Myongoh: 韩明武
+Yoo Mia: 刘美雅
+Song Minwoo: 宋敏宇
 Yoo: 刘
+Kim: 金
 Han: 韩
 Jung: 郑
 Lee: 李
+Shin: 申
 Jang: 张
 Gong: 孔
 Dokja: 独子
@@ -39,6 +44,7 @@ Yoosung: 流承
 Sookyung: 秀景
 Seolhwa: 雪花
 Hayoung: 夏英
+Mia: 美雅
 Pildu: 弼斗
 Myungoh: 明武
 Myongoh: 明武
@@ -248,6 +254,7 @@ Unbroken Faith: 永不折断的信念
 Hyung: 哥
 Noona: 姐
 Constellation: 星座
+Sunfish: 翻车鱼
 
 禁翻词条
 // 需保持原文的词汇
