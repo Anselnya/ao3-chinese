@@ -1,0 +1,28 @@
+版本号：1.0.0
+维护者：Aneria
+更新时间：2026-06-09
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Park Moondae = 朴 炆旲
+Ryu Gunwoo = 柳 建佑
+Ryu Chungwoo = 柳 清佑
+Bae Sejin = 裴 世振
+Lee Sejin = 李 世振
+Seon Ahyeon = 宣 雅炫
+Cha Eugene = 车 唯辰
+Kim Raebin = 金 来彬
+Cheongryeo：青黎
+Shinoh：信旿
+Judan：朱丹
+Chaeyul：采律
+
+Keundal：大月
+BigMoon：大月
+KeunSejin：大世振
+"Keun"Sejin：大世振
+
+禁翻词条
+// 此区域区分大小写，用于保持原文
+TeSTAR
+VTIC
