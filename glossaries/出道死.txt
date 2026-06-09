@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：Aneria
 更新时间：2026-06-09
 
@@ -12,6 +12,7 @@ Lee Sejin = 李 世振
 Seon Ahyeon = 宣 雅炫
 Cha Eugene = 车 唯辰
 Kim Raebin = 金 来彬
+Shin Jaehyun = 申 宰贤
 Cheongryeo：青黎
 Shinoh：信旿
 Judan：朱丹
@@ -26,3 +27,11 @@ KeunSejin：大世振
 // 此区域区分大小写，用于保持原文
 TeSTAR
 VTIC
+Bottom
+Top
+Alpha
+Beta
+Omega
+alpha
+beta
+omega
